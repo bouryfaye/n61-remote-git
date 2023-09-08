@@ -1,0 +1,1 @@
+const pElement = document.querySelector('.annotation')
